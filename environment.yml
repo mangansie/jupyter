@@ -1,0 +1,11 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - psutil
+  - toolz
+  - matplotlib
+  - pandas
+  - seaborn
+  - plotly
+  - numpy
